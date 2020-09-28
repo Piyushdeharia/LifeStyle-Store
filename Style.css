@@ -1,0 +1,21 @@
+#banner_image{padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(image/intro-bg_1.jpg) no-repeat center center;
+background-size:cover; 
+}
+#banner_content{
+position: relative;
+padding-top: 60px;
+padding-bottom: 60px;
+margin-top: 120px;
+margin-bottom: 120px;
+background-color: rgba(0,0,0,0.7);
+max-width: 660px;
+}
+footer{background-color: #000;
+       color: #fff;
+       font-size: 14px;
+       bottom: 0;
+       width: 100%;}        
